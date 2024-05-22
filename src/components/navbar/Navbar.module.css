@@ -1,15 +1,10 @@
-.container{
-    display: flex;    
-    height: 25px;
-    width: 85px;
-    background-color: #fff;
-    margin-top: 5px;
-    margin-left: 12px;
+.container {
+  display: flex;
 }
 
-.circle{
-    margin-left: 5px;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
+.circle {
+  margin: 5px;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
 }

@@ -1,0 +1,10 @@
+.container {
+  background-color: gray;
+  height: 100vh;
+}
+
+.expenseContainer {
+  background-color: brown;
+  margin: 12px;
+  height: 90vh;
+}
